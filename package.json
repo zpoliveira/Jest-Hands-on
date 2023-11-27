@@ -1,0 +1,23 @@
+{
+  "name": "jest_hands_on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "axios": "^1.6.2",
+    "jest": "^27.4.7",
+    "jsonserver": "^0.1.6",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
